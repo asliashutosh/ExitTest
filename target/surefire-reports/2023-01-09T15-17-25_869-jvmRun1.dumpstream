@@ -1,0 +1,184 @@
+# Created at 2023-01-09T15:17:48.776
+[SUREFIRE] std/in stream corrupted
+java.io.IOException: Command NOOP unexpectedly read Void data with length 4.
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:130)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+# Created at 2023-01-09T15:17:57.720
+Unexpected IOException: 8,1,testCases.aboutUsTest,initializeDriver(testCases.aboutUsTest),null,null,null,null,aboutUsTest>driverClass.initializeDriver:55 \00BB InputMismatch,java.util.InputMismatchException\000A
+
+
+# Created at 2023-01-09T15:17:57.733
+Unexpected IOException: 9,1,testCases.aboutUsTest,openUrl(testCases.aboutUsTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.774
+Unexpected IOException: 9,1,testCases.aboutUsTest,startTest(testCases.aboutUsTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.777
+Unexpected IOException: 9,1,testCases.aboutUsTest,aboutUs(testCases.aboutUsTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.778
+Unexpected IOException: 9,1,testCases.aboutUsTest,status(testCases.aboutUsTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.782
+Unexpected IOException: 9,1,testCases.addToCartTest,startTest(testCases.addToCartTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.783
+Unexpected IOException: 9,1,testCases.addToCartTest,addtoCart(testCases.addToCartTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.784
+Unexpected IOException: 9,1,testCases.addToCartTest,status(testCases.addToCartTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.787
+Unexpected IOException: 9,1,testCases.becomeASellerTest,startTest(testCases.becomeASellerTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.789
+Unexpected IOException: 9,1,testCases.becomeASellerTest,BecomaASeller(testCases.becomeASellerTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.792
+Unexpected IOException: 9,1,testCases.becomeASellerTest,status(testCases.becomeASellerTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.794
+Unexpected IOException: 9,1,testCases.careersTest,startTest(testCases.careersTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.795
+Unexpected IOException: 9,1,testCases.careersTest,aboutUs(testCases.careersTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.796
+Unexpected IOException: 9,1,testCases.careersTest,status(testCases.careersTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.801
+Unexpected IOException: 9,1,testCases.contactUsTest,startTest(testCases.contactUsTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.803
+Unexpected IOException: 9,1,testCases.contactUsTest,contactUs(testCases.contactUsTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.806
+Unexpected IOException: 9,1,testCases.contactUsTest,status(testCases.contactUsTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.812
+Unexpected IOException: 9,1,testCases.explorePlusTest,startTest(testCases.explorePlusTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.818
+Unexpected IOException: 9,1,testCases.explorePlusTest,plusTest(testCases.explorePlusTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.820
+Unexpected IOException: 9,1,testCases.explorePlusTest,status(testCases.explorePlusTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.824
+Unexpected IOException: 9,1,testCases.flipkartStoriesTest,startTest(testCases.flipkartStoriesTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.826
+Unexpected IOException: 9,1,testCases.flipkartStoriesTest,aboutUs(testCases.flipkartStoriesTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.828
+Unexpected IOException: 9,1,testCases.flipkartStoriesTest,status(testCases.flipkartStoriesTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.832
+Unexpected IOException: 9,1,testCases.flipkartWholeSaleTest,startTest(testCases.flipkartWholeSaleTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.834
+Unexpected IOException: 9,1,testCases.flipkartWholeSaleTest,flipkartWholeSale(testCases.flipkartWholeSaleTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.835
+Unexpected IOException: 9,1,testCases.flipkartWholeSaleTest,status(testCases.flipkartWholeSaleTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.837
+Unexpected IOException: 9,1,testCases.helpTest,startTest(testCases.helpTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.838
+Unexpected IOException: 9,1,testCases.helpTest,PaymentPageTest(testCases.helpTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.840
+Unexpected IOException: 9,1,testCases.helpTest,status(testCases.helpTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.842
+Unexpected IOException: 9,1,testCases.loginTest,startTest(testCases.loginTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.844
+Unexpected IOException: 9,1,testCases.loginTest,loginPageTest(testCases.loginTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.845
+Unexpected IOException: 9,1,testCases.loginTest,status(testCases.loginTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.847
+Unexpected IOException: 9,1,testCases.policyTest,startTest(testCases.policyTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.848
+Unexpected IOException: 9,1,testCases.policyTest,ReturnPolicyTest(testCases.policyTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.851
+Unexpected IOException: 9,1,testCases.policyTest,status(testCases.policyTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.853
+Unexpected IOException: 9,1,testCases.pressTest,startTest(testCases.pressTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.854
+Unexpected IOException: 9,1,testCases.pressTest,press(testCases.pressTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.855
+Unexpected IOException: 9,1,testCases.pressTest,status(testCases.pressTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.857
+Unexpected IOException: 9,1,testCases.searchProductTest,startTest(testCases.searchProductTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.857
+Unexpected IOException: 9,1,testCases.searchProductTest,SearchProduct(testCases.searchProductTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.860
+Unexpected IOException: 9,1,testCases.searchProductTest,status(testCases.searchProductTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.865
+Unexpected IOException: 9,1,testCases.aboutUsTest,deletion(testCases.aboutUsTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:57.985
+Unexpected IOException: 9,1,testCases.aboutUsTest,quitBrowser(testCases.aboutUsTest),null,null,null
+
+
+# Created at 2023-01-09T15:17:58.216
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGDirectoryTestSuite,TestSuite,null,null,null
+
+

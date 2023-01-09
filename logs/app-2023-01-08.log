@@ -1,0 +1,520 @@
+[INFO ] 2023-01-08 12:03:05.737 [main] helpTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 12:03:06.007 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 12:03:06.798 [main] helpTest - Clicking on the Payment Page link
+[INFO ] 2023-01-08 12:03:08.207 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 12:03:08.653 [main] helpTest - Clicking on the Shipping Page link
+[INFO ] 2023-01-08 12:12:01.395 [main] helpTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 12:12:01.610 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 12:12:02.210 [main] helpTest - Clicking on the Payment Page link
+[INFO ] 2023-01-08 12:12:03.709 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 12:12:04.072 [main] helpTest - Clicking on the Shipping Page link
+[INFO ] 2023-01-08 12:12:04.942 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 12:12:05.276 [main] helpTest - Clicking on the Cancellation Page link
+[INFO ] 2023-01-08 12:12:06.604 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 12:12:06.983 [main] helpTest - Clicking on the FAQ link
+[INFO ] 2023-01-08 13:03:08.929 [main] helpTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 13:03:09.194 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 13:03:09.971 [main] helpTest - Clicking on the Payment Page link
+[INFO ] 2023-01-08 13:03:11.418 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 13:03:11.813 [main] helpTest - Clicking on the Shipping Page link
+[INFO ] 2023-01-08 13:03:12.855 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 13:03:13.206 [main] helpTest - Clicking on the Cancellation Page link
+[INFO ] 2023-01-08 13:03:14.580 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 13:03:14.986 [main] helpTest - Clicking on the FAQ link
+[INFO ] 2023-01-08 13:10:16.874 [main] helpTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 13:10:17.130 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 13:10:17.926 [main] helpTest - Clicking on the Payment Page link
+[INFO ] 2023-01-08 13:10:19.408 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 13:10:19.749 [main] helpTest - Clicking on the Shipping Page link
+[INFO ] 2023-01-08 13:10:20.807 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 13:10:21.166 [main] helpTest - Clicking on the Cancellation Page link
+[INFO ] 2023-01-08 13:10:22.446 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 13:10:22.813 [main] helpTest - Clicking on the FAQ link
+[INFO ] 2023-01-08 13:21:35.528 [main] helpTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 13:21:35.700 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 13:21:36.450 [main] helpTest - Clicking on the Return Page link
+[INFO ] 2023-01-08 13:21:37.931 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 13:21:38.335 [main] helpTest - Clicking on the Terms of Use Page link
+[INFO ] 2023-01-08 13:21:39.544 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 13:22:09.787 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 13:25:34.961 [main] helpTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 13:25:35.220 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 13:25:35.937 [main] helpTest - Clicking on the Return Page link
+[INFO ] 2023-01-08 13:25:37.567 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 13:25:38.052 [main] helpTest - Clicking on the Terms of Use Page link
+[INFO ] 2023-01-08 13:25:39.335 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 13:25:54.601 [main] helpTest - Clicking on the Security Page link
+[INFO ] 2023-01-08 13:25:55.685 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 13:25:56.083 [main] helpTest - Clicking on the Privacy Page link
+[INFO ] 2023-01-08 13:26:47.796 [main] helpTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 13:26:48.030 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 13:26:48.592 [main] helpTest - Clicking on the Return Page link
+[INFO ] 2023-01-08 13:26:50.093 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 13:26:50.507 [main] helpTest - Clicking on the Terms of Use Page link
+[INFO ] 2023-01-08 13:26:52.477 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 13:27:09.814 [main] helpTest - Clicking on the Security Page link
+[INFO ] 2023-01-08 13:27:10.978 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 13:27:11.392 [main] helpTest - Clicking on the Privacy Page link
+[INFO ] 2023-01-08 14:37:56.072 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 14:40:53.735 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 14:42:12.364 [main] helpTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 14:42:12.562 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 14:42:13.183 [main] helpTest - Clicking on the Security Page link
+[INFO ] 2023-01-08 14:43:45.607 [main] helpTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 14:43:45.817 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 14:43:46.565 [main] helpTest - Clicking on the Return Page link
+[INFO ] 2023-01-08 14:43:48.319 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 14:43:48.807 [main] helpTest - Clicking on the Terms of Use Page link
+[INFO ] 2023-01-08 14:43:50.086 [main] helpTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 14:43:55.142 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 14:44:19.490 [main] helpTest - Clicking on the Privacy Page link
+[INFO ] 2023-01-08 14:46:31.827 [main] helpTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 14:46:32.043 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 14:46:32.699 [main] helpTest - Clicking on the Return Page link
+[INFO ] 2023-01-08 14:46:34.176 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 14:46:34.529 [main] helpTest - Clicking on the Terms of Use Page link
+[INFO ] 2023-01-08 14:46:35.615 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 14:46:57.168 [main] helpTest - Clicking on the Security Page link
+[INFO ] 2023-01-08 14:46:58.238 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 14:46:58.614 [main] helpTest - Clicking on the Privacy Page link
+[INFO ] 2023-01-08 21:50:34.781 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 21:50:34.992 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 21:50:35.573 [main] loginTest - Clicking on the Contact Us link
+[INFO ] 2023-01-08 21:50:37.033 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 21:50:42.119 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 21:50:47.226 [main] helpTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 21:50:52.280 [main] loginTest - Sending Email or Phone Number
+[INFO ] 2023-01-08 21:50:57.344 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 21:51:02.391 [main] loginTest - Clicking on the Cross buttonto get the view of Homepage
+[INFO ] 2023-01-08 21:51:07.484 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 21:51:12.620 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 21:51:17.710 [main] helpTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 21:51:22.837 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 21:51:27.885 [main] loginTest - Clicking on the cross button to the proper view of Homepage
+[INFO ] 2023-01-08 21:51:32.617 [main] loginTest - Clicking on the mobile icos
+[INFO ] 2023-01-08 21:51:33.049 [main] loginTest - Clicking on brand Banner
+[INFO ] 2023-01-08 21:51:34.835 [main] loginTest - Clicking on the product
+[INFO ] 2023-01-08 21:51:35.808 [main] loginTest - Switching to new tab
+[INFO ] 2023-01-08 21:54:57.532 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 21:54:57.785 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 21:54:58.574 [main] loginTest - Clicking on the Contact Us link
+[INFO ] 2023-01-08 21:55:00.152 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 21:55:05.254 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 21:55:08.722 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 21:55:09.222 [main] loginTest - Clicking on the Career link
+[INFO ] 2023-01-08 21:55:19.850 [main] helpTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 21:55:24.949 [main] loginTest - Sending Email or Phone Number
+[INFO ] 2023-01-08 21:55:30.015 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 21:55:33.503 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 21:55:34.359 [main] loginTest - Clicking on the coin banner
+[INFO ] 2023-01-08 21:55:35.548 [main] loginTest - Clicking on the Cross buttonto get the view of Homepage
+[INFO ] 2023-01-08 21:55:40.339 [main] loginTest - Clicking on the Become A Seller Button
+[INFO ] 2023-01-08 21:55:46.842 [main] loginTest - Sending Molile Number
+[INFO ] 2023-01-08 21:55:47.042 [main] loginTest - Clicking on the Start Selling button
+[INFO ] 2023-01-08 21:55:50.219 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 21:55:55.302 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 21:55:56.086 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 21:55:56.693 [main] loginTest - Clicking on the About Us link
+[INFO ] 2023-01-08 21:55:57.577 [main] helpTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 21:56:01.519 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 21:56:01.956 [main] helpTest - Clicking on the Payment Page link
+[INFO ] 2023-01-08 21:56:03.098 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 21:56:06.733 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 21:56:07.156 [main] loginTest - Clicking on the Press link
+[INFO ] 2023-01-08 21:56:12.938 [main] loginTest - Clicking on the cross button to the proper view of Homepage
+[INFO ] 2023-01-08 21:56:18.250 [main] loginTest - Clicking on the mobile icos
+[INFO ] 2023-01-08 21:56:18.565 [main] loginTest - Clicking on brand Banner
+[INFO ] 2023-01-08 21:56:19.600 [main] loginTest - Clicking on the product
+[INFO ] 2023-01-08 21:56:20.597 [main] loginTest - Switching to new tab
+[INFO ] 2023-01-08 22:03:36.530 [main] driverClass - Opening Flipkart.com
+[INFO ] 2023-01-08 22:04:00.983 [main] driverClass - Opening Browser
+[INFO ] 2023-01-08 22:04:02.672 [main] driverClass - Testcase contactUs started
+[INFO ] 2023-01-08 22:04:02.724 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:04:03.053 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:04:03.834 [main] loginTest - Clicking on the Contact Us link
+[INFO ] 2023-01-08 22:04:06.589 [main] driverClass - Testcase contactUs ended
+[INFO ] 2023-01-08 22:04:07.996 [main] driverClass - Testcase flipkartWholeSale started
+[INFO ] 2023-01-08 22:04:08.001 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:04:10.450 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:04:10.988 [main] loginTest - Clicking on the Flipkart WholeSale link
+[INFO ] 2023-01-08 22:04:11.161 [main] loginTest - Switching to new tab
+[INFO ] 2023-01-08 22:04:14.983 [main] driverClass - Testcase flipkartWholeSale ended
+[INFO ] 2023-01-08 22:04:16.595 [main] driverClass - Testcase aboutUs started
+[INFO ] 2023-01-08 22:04:16.599 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:04:16.845 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:04:17.423 [main] loginTest - Clicking on the Career link
+[INFO ] 2023-01-08 22:04:22.814 [main] driverClass - Testcase aboutUs ended
+[INFO ] 2023-01-08 22:04:24.371 [main] driverClass - Testcase ReturnPolicyTest started
+[INFO ] 2023-01-08 22:04:24.375 [main] helpTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:04:26.296 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:04:26.892 [main] helpTest - Clicking on the Return Page link
+[INFO ] 2023-01-08 22:04:28.127 [main] driverClass - Testcase ReturnPolicyTest ended
+[INFO ] 2023-01-08 22:04:29.711 [main] driverClass - Testcase loginPageTest started
+[INFO ] 2023-01-08 22:04:29.711 [main] loginTest - Sending Email or Phone Number
+[INFO ] 2023-01-08 22:04:31.965 [main] driverClass - Testcase loginPageTest ended
+[INFO ] 2023-01-08 22:04:33.432 [main] driverClass - Testcase plusTest started
+[INFO ] 2023-01-08 22:04:33.437 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:04:35.258 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:04:35.809 [main] loginTest - Clicking on the coin banner
+[INFO ] 2023-01-08 22:04:36.985 [main] driverClass - Testcase plusTest ended
+[INFO ] 2023-01-08 22:04:38.316 [main] driverClass - Testcase BecomaASeller started
+[INFO ] 2023-01-08 22:04:38.322 [main] loginTest - Clicking on the Cross buttonto get the view of Homepage
+[INFO ] 2023-01-08 22:04:39.290 [main] loginTest - Clicking on the Become A Seller Button
+[INFO ] 2023-01-08 22:04:47.338 [main] loginTest - Sending Molile Number
+[INFO ] 2023-01-08 22:04:48.020 [main] driverClass - Testcase BecomaASeller ended
+[INFO ] 2023-01-08 22:04:49.685 [main] driverClass - Testcase aboutUs started
+[INFO ] 2023-01-08 22:04:49.689 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:04:51.007 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:04:51.542 [main] loginTest - Clicking on the Flipkart Stories link
+[INFO ] 2023-01-08 22:05:16.046 [main] driverClass - Testcase aboutUs ended
+[INFO ] 2023-01-08 22:05:17.565 [main] driverClass - Testcase aboutUs started
+[INFO ] 2023-01-08 22:05:17.580 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:05:23.015 [main] driverClass - Testcase aboutUs ended
+[INFO ] 2023-01-08 22:05:24.399 [main] driverClass - Testcase PaymentPageTest started
+[INFO ] 2023-01-08 22:05:24.405 [main] helpTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:05:26.117 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:05:26.837 [main] helpTest - Clicking on the Payment Page link
+[INFO ] 2023-01-08 22:05:28.018 [main] driverClass - Testcase PaymentPageTest ended
+[INFO ] 2023-01-08 22:05:29.642 [main] driverClass - Testcase press started
+[INFO ] 2023-01-08 22:05:29.650 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:05:30.616 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:05:31.079 [main] loginTest - Clicking on the Press link
+[INFO ] 2023-01-08 22:05:34.283 [main] driverClass - Testcase press ended
+[INFO ] 2023-01-08 22:05:35.781 [main] driverClass - Testcase addtoCart started
+[INFO ] 2023-01-08 22:05:35.781 [main] loginTest - Clicking on the cross button to the proper view of Homepage
+[INFO ] 2023-01-08 22:05:36.806 [main] loginTest - Clicking on the mobile icos
+[INFO ] 2023-01-08 22:05:37.025 [main] loginTest - Clicking on brand Banner
+[INFO ] 2023-01-08 22:05:37.947 [main] loginTest - Clicking on the product
+[INFO ] 2023-01-08 22:05:38.933 [main] loginTest - Switching to new tab
+[INFO ] 2023-01-08 22:05:46.705 [main] driverClass - Testcase addtoCart ended
+[INFO ] 2023-01-08 22:05:47.011 [main] driverClass - Quiting the browser
+[INFO ] 2023-01-08 22:14:09.488 [main] driverClass - Opening Flipkart.com
+[INFO ] 2023-01-08 22:14:54.697 [main] driverClass - Opening Browser
+[INFO ] 2023-01-08 22:14:56.709 [main] driverClass - Testcase contactUs started
+[INFO ] 2023-01-08 22:14:56.802 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:14:57.102 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:14:58.193 [main] loginTest - Clicking on the Contact Us link
+[INFO ] 2023-01-08 22:15:00.100 [main] driverClass - Testcase contactUs ended
+[INFO ] 2023-01-08 22:15:01.786 [main] driverClass - Testcase flipkartWholeSale started
+[INFO ] 2023-01-08 22:15:01.792 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:15:05.452 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:15:06.013 [main] loginTest - Clicking on the Flipkart WholeSale link
+[INFO ] 2023-01-08 22:15:06.263 [main] loginTest - Switching to new tab
+[INFO ] 2023-01-08 22:15:09.193 [main] driverClass - Testcase flipkartWholeSale ended
+[INFO ] 2023-01-08 22:15:11.004 [main] driverClass - Testcase aboutUs started
+[INFO ] 2023-01-08 22:15:11.012 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:15:11.288 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:15:11.903 [main] loginTest - Clicking on the Career link
+[INFO ] 2023-01-08 22:15:18.598 [main] driverClass - Testcase aboutUs ended
+[INFO ] 2023-01-08 22:15:20.321 [main] driverClass - Testcase ReturnPolicyTest started
+[INFO ] 2023-01-08 22:15:20.330 [main] helpTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:15:23.491 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:15:24.297 [main] helpTest - Clicking on the Return Page link
+[INFO ] 2023-01-08 22:15:26.320 [main] driverClass - Testcase ReturnPolicyTest ended
+[INFO ] 2023-01-08 22:15:28.274 [main] driverClass - Testcase loginPageTest started
+[INFO ] 2023-01-08 22:15:28.285 [main] loginTest - Sending Email or Phone Number
+[INFO ] 2023-01-08 22:15:34.231 [main] driverClass - Testcase loginPageTest ended
+[INFO ] 2023-01-08 22:15:35.657 [main] driverClass - Testcase plusTest started
+[INFO ] 2023-01-08 22:15:35.660 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:15:41.472 [main] driverClass - Testcase plusTest ended
+[INFO ] 2023-01-08 22:15:43.318 [main] driverClass - Testcase BecomaASeller started
+[INFO ] 2023-01-08 22:15:43.325 [main] loginTest - Clicking on the Cross buttonto get the view of Homepage
+[INFO ] 2023-01-08 22:15:49.290 [main] driverClass - Testcase BecomaASeller ended
+[INFO ] 2023-01-08 22:15:51.131 [main] driverClass - Testcase aboutUs started
+[INFO ] 2023-01-08 22:15:51.136 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:15:56.961 [main] driverClass - Testcase aboutUs ended
+[INFO ] 2023-01-08 22:15:58.617 [main] driverClass - Testcase aboutUs started
+[INFO ] 2023-01-08 22:15:58.622 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:16:04.419 [main] driverClass - Testcase aboutUs ended
+[INFO ] 2023-01-08 22:16:05.990 [main] driverClass - Testcase PaymentPageTest started
+[INFO ] 2023-01-08 22:16:06.001 [main] helpTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:16:12.513 [main] driverClass - Testcase PaymentPageTest ended
+[INFO ] 2023-01-08 22:16:14.213 [main] driverClass - Testcase press started
+[INFO ] 2023-01-08 22:16:14.222 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:16:19.794 [main] driverClass - Testcase press ended
+[INFO ] 2023-01-08 22:16:21.395 [main] driverClass - Testcase addtoCart started
+[INFO ] 2023-01-08 22:16:21.407 [main] loginTest - Clicking on the cross button to the proper view of Homepage
+[INFO ] 2023-01-08 22:16:27.356 [main] driverClass - Testcase addtoCart ended
+[INFO ] 2023-01-08 22:16:27.684 [main] driverClass - Quiting the browser
+[INFO ] 2023-01-08 22:17:54.099 [main] driverClass - Opening Flipkart.com
+[INFO ] 2023-01-08 22:18:38.345 [main] driverClass - Opening Browser
+[INFO ] 2023-01-08 22:18:40.165 [main] driverClass - Testcase contactUs started
+[INFO ] 2023-01-08 22:18:40.236 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:18:40.618 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:18:41.611 [main] loginTest - Clicking on the Contact Us link
+[INFO ] 2023-01-08 22:18:43.512 [main] driverClass - Testcase contactUs ended
+[INFO ] 2023-01-08 22:18:44.964 [main] driverClass - Testcase flipkartWholeSale started
+[INFO ] 2023-01-08 22:18:44.975 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:18:51.072 [main] driverClass - Testcase flipkartWholeSale ended
+[INFO ] 2023-01-08 22:18:52.525 [main] driverClass - Testcase aboutUs started
+[INFO ] 2023-01-08 22:18:52.535 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:26:52.045 [main] driverClass - Opening Flipkart.com
+[INFO ] 2023-01-08 22:27:36.795 [main] driverClass - Opening Browser
+[INFO ] 2023-01-08 22:27:38.674 [main] driverClass - Testcase contactUs started
+[INFO ] 2023-01-08 22:27:38.746 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:27:39.084 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:27:40.102 [main] loginTest - Clicking on the Contact Us link
+[INFO ] 2023-01-08 22:27:42.061 [main] driverClass - Testcase contactUs ended
+[INFO ] 2023-01-08 22:27:43.572 [main] driverClass - Testcase flipkartWholeSale started
+[INFO ] 2023-01-08 22:27:43.577 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:27:44.093 [main] loginTest - Clicking on the Flipkart WholeSale link
+[INFO ] 2023-01-08 22:27:44.337 [main] loginTest - Switching to new tab
+[INFO ] 2023-01-08 22:27:49.180 [main] driverClass - Testcase flipkartWholeSale ended
+[INFO ] 2023-01-08 22:27:51.017 [main] driverClass - Testcase aboutUs started
+[INFO ] 2023-01-08 22:27:51.025 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:27:52.952 [main] driverClass - Testcase aboutUs ended
+[INFO ] 2023-01-08 22:27:54.904 [main] driverClass - Testcase ReturnPolicyTest started
+[INFO ] 2023-01-08 22:27:54.908 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:27:56.705 [main] driverClass - Testcase ReturnPolicyTest ended
+[INFO ] 2023-01-08 22:27:58.362 [main] driverClass - Testcase loginPageTest started
+[INFO ] 2023-01-08 22:27:58.369 [main] loginTest - Sending Email or Phone Number
+[INFO ] 2023-01-08 22:27:58.956 [main] driverClass - Testcase loginPageTest ended
+[INFO ] 2023-01-08 22:28:00.636 [main] driverClass - Testcase plusTest started
+[INFO ] 2023-01-08 22:28:00.640 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:28:02.349 [main] driverClass - Testcase plusTest ended
+[INFO ] 2023-01-08 22:28:03.971 [main] driverClass - Testcase BecomaASeller started
+[INFO ] 2023-01-08 22:28:03.976 [main] loginTest - Clicking on the Become A Seller Button
+[INFO ] 2023-01-08 22:28:05.767 [main] driverClass - Testcase BecomaASeller ended
+[INFO ] 2023-01-08 22:28:07.319 [main] driverClass - Testcase aboutUs started
+[INFO ] 2023-01-08 22:28:07.325 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:28:09.021 [main] driverClass - Testcase aboutUs ended
+[INFO ] 2023-01-08 22:28:10.822 [main] driverClass - Testcase aboutUs started
+[INFO ] 2023-01-08 22:28:10.825 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:28:12.800 [main] driverClass - Testcase aboutUs ended
+[INFO ] 2023-01-08 22:28:14.404 [main] driverClass - Testcase PaymentPageTest started
+[INFO ] 2023-01-08 22:28:14.411 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:28:14.980 [main] helpTest - Clicking on the Payment Page link
+[INFO ] 2023-01-08 22:28:16.283 [main] driverClass - Testcase PaymentPageTest ended
+[INFO ] 2023-01-08 22:28:17.755 [main] driverClass - Testcase press started
+[INFO ] 2023-01-08 22:28:17.757 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:28:18.417 [main] loginTest - Clicking on the Press link
+[INFO ] 2023-01-08 22:28:24.244 [main] driverClass - Testcase press ended
+[INFO ] 2023-01-08 22:28:25.954 [main] driverClass - Testcase addtoCart started
+[INFO ] 2023-01-08 22:28:25.958 [main] loginTest - Clicking on the mobile icos
+[INFO ] 2023-01-08 22:28:26.101 [main] loginTest - Clicking on brand Banner
+[INFO ] 2023-01-08 22:28:27.103 [main] loginTest - Clicking on the product
+[INFO ] 2023-01-08 22:28:28.200 [main] loginTest - Switching to new tab
+[INFO ] 2023-01-08 22:28:30.869 [main] driverClass - Testcase addtoCart ended
+[INFO ] 2023-01-08 22:28:31.437 [main] driverClass - Quiting the browser
+[INFO ] 2023-01-08 22:29:05.287 [main] driverClass - Opening Flipkart.com
+[INFO ] 2023-01-08 22:29:49.315 [main] driverClass - Opening Browser
+[INFO ] 2023-01-08 22:29:50.987 [main] driverClass - Testcase contactUs started
+[INFO ] 2023-01-08 22:29:51.044 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:29:51.406 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:29:52.377 [main] loginTest - Clicking on the Contact Us link
+[INFO ] 2023-01-08 22:29:54.189 [main] driverClass - Testcase contactUs ended
+[INFO ] 2023-01-08 22:29:55.646 [main] driverClass - Testcase flipkartWholeSale started
+[INFO ] 2023-01-08 22:29:55.650 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:29:56.226 [main] loginTest - Clicking on the Flipkart WholeSale link
+[INFO ] 2023-01-08 22:29:56.401 [main] loginTest - Switching to new tab
+[INFO ] 2023-01-08 22:30:02.979 [main] driverClass - Testcase flipkartWholeSale ended
+[INFO ] 2023-01-08 22:30:04.917 [main] driverClass - Testcase aboutUs started
+[INFO ] 2023-01-08 22:30:04.924 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:30:06.755 [main] driverClass - Testcase aboutUs ended
+[INFO ] 2023-01-08 22:30:08.365 [main] driverClass - Testcase ReturnPolicyTest started
+[INFO ] 2023-01-08 22:30:08.372 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:30:08.986 [main] helpTest - Clicking on the Return Page link
+[INFO ] 2023-01-08 22:30:10.211 [main] driverClass - Testcase ReturnPolicyTest ended
+[INFO ] 2023-01-08 22:30:11.815 [main] driverClass - Testcase loginPageTest started
+[INFO ] 2023-01-08 22:30:11.815 [main] loginTest - Sending Email or Phone Number
+[INFO ] 2023-01-08 22:30:17.808 [main] driverClass - Testcase loginPageTest ended
+[INFO ] 2023-01-08 22:30:19.214 [main] driverClass - Testcase plusTest started
+[INFO ] 2023-01-08 22:30:19.218 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:30:19.810 [main] loginTest - Clicking on the coin banner
+[INFO ] 2023-01-08 22:30:20.975 [main] driverClass - Testcase plusTest ended
+[INFO ] 2023-01-08 22:30:22.546 [main] driverClass - Testcase BecomaASeller started
+[INFO ] 2023-01-08 22:30:22.546 [main] loginTest - Clicking on the Become A Seller Button
+[INFO ] 2023-01-08 22:30:30.842 [main] loginTest - Sending Molile Number
+[INFO ] 2023-01-08 22:30:31.541 [main] driverClass - Testcase BecomaASeller ended
+[INFO ] 2023-01-08 22:30:33.184 [main] driverClass - Testcase aboutUs started
+[INFO ] 2023-01-08 22:30:33.192 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:30:33.777 [main] loginTest - Clicking on the Flipkart Stories link
+[INFO ] 2023-01-08 22:30:58.227 [main] driverClass - Testcase aboutUs ended
+[INFO ] 2023-01-08 22:30:59.915 [main] driverClass - Testcase aboutUs started
+[INFO ] 2023-01-08 22:30:59.915 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:31:00.484 [main] loginTest - Clicking on the About Us link
+[INFO ] 2023-01-08 22:31:01.916 [main] driverClass - Testcase aboutUs ended
+[INFO ] 2023-01-08 22:31:03.211 [main] driverClass - Testcase PaymentPageTest started
+[INFO ] 2023-01-08 22:31:03.215 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:31:03.829 [main] helpTest - Clicking on the Payment Page link
+[INFO ] 2023-01-08 22:31:05.161 [main] driverClass - Testcase PaymentPageTest ended
+[INFO ] 2023-01-08 22:31:06.749 [main] driverClass - Testcase press started
+[INFO ] 2023-01-08 22:31:06.749 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:31:07.337 [main] loginTest - Clicking on the Press link
+[INFO ] 2023-01-08 22:31:09.549 [main] driverClass - Testcase press ended
+[INFO ] 2023-01-08 22:31:10.934 [main] driverClass - Testcase addtoCart started
+[INFO ] 2023-01-08 22:31:10.934 [main] loginTest - Clicking on the mobile icos
+[INFO ] 2023-01-08 22:31:11.163 [main] loginTest - Clicking on brand Banner
+[INFO ] 2023-01-08 22:31:12.180 [main] loginTest - Clicking on the product
+[INFO ] 2023-01-08 22:31:13.160 [main] loginTest - Switching to new tab
+[INFO ] 2023-01-08 22:31:15.555 [main] driverClass - Testcase addtoCart ended
+[INFO ] 2023-01-08 22:31:16.126 [main] driverClass - Quiting the browser
+[INFO ] 2023-01-08 22:32:23.112 [main] driverClass - Opening Flipkart.com
+[INFO ] 2023-01-08 22:33:08.699 [main] driverClass - Opening Browser
+[INFO ] 2023-01-08 22:33:10.529 [main] driverClass - Testcase contactUs started
+[INFO ] 2023-01-08 22:33:10.598 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:33:10.907 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:33:11.979 [main] loginTest - Clicking on the Contact Us link
+[INFO ] 2023-01-08 22:33:13.899 [main] driverClass - Testcase contactUs ended
+[INFO ] 2023-01-08 22:33:15.617 [main] driverClass - Testcase aboutUs started
+[INFO ] 2023-01-08 22:33:15.623 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:33:16.189 [main] loginTest - Clicking on the Career link
+[INFO ] 2023-01-08 22:33:24.142 [main] driverClass - Testcase aboutUs ended
+[INFO ] 2023-01-08 22:33:25.907 [main] driverClass - Testcase ReturnPolicyTest started
+[INFO ] 2023-01-08 22:33:25.916 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:33:26.494 [main] helpTest - Clicking on the Return Page link
+[INFO ] 2023-01-08 22:33:27.725 [main] driverClass - Testcase ReturnPolicyTest ended
+[INFO ] 2023-01-08 22:33:29.320 [main] driverClass - Testcase loginPageTest started
+[INFO ] 2023-01-08 22:33:29.326 [main] loginTest - Sending Email or Phone Number
+[INFO ] 2023-01-08 22:33:35.492 [main] driverClass - Testcase loginPageTest ended
+[INFO ] 2023-01-08 22:33:37.015 [main] driverClass - Testcase plusTest started
+[INFO ] 2023-01-08 22:33:37.018 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:33:37.710 [main] loginTest - Clicking on the coin banner
+[INFO ] 2023-01-08 22:33:38.947 [main] driverClass - Testcase plusTest ended
+[INFO ] 2023-01-08 22:33:40.475 [main] driverClass - Testcase BecomaASeller started
+[INFO ] 2023-01-08 22:33:40.475 [main] loginTest - Clicking on the Become A Seller Button
+[INFO ] 2023-01-08 22:33:54.125 [main] loginTest - Sending Molile Number
+[INFO ] 2023-01-08 22:33:54.823 [main] driverClass - Testcase BecomaASeller ended
+[INFO ] 2023-01-08 22:33:56.811 [main] driverClass - Testcase aboutUs started
+[INFO ] 2023-01-08 22:33:56.816 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:33:57.469 [main] loginTest - Clicking on the Flipkart Stories link
+[INFO ] 2023-01-08 22:34:21.055 [main] driverClass - Testcase aboutUs ended
+[INFO ] 2023-01-08 22:34:22.693 [main] driverClass - Testcase aboutUs started
+[INFO ] 2023-01-08 22:34:22.693 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:34:23.262 [main] loginTest - Clicking on the About Us link
+[INFO ] 2023-01-08 22:34:24.098 [main] driverClass - Testcase aboutUs ended
+[INFO ] 2023-01-08 22:34:25.573 [main] driverClass - Testcase PaymentPageTest started
+[INFO ] 2023-01-08 22:34:25.573 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:34:26.127 [main] helpTest - Clicking on the Payment Page link
+[INFO ] 2023-01-08 22:34:27.385 [main] driverClass - Testcase PaymentPageTest ended
+[INFO ] 2023-01-08 22:34:28.889 [main] driverClass - Testcase press started
+[INFO ] 2023-01-08 22:34:28.889 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:34:29.458 [main] loginTest - Clicking on the Press link
+[INFO ] 2023-01-08 22:34:31.525 [main] driverClass - Testcase press ended
+[INFO ] 2023-01-08 22:34:32.967 [main] driverClass - Testcase addtoCart started
+[INFO ] 2023-01-08 22:34:32.967 [main] loginTest - Clicking on the mobile icos
+[INFO ] 2023-01-08 22:34:33.274 [main] loginTest - Clicking on brand Banner
+[INFO ] 2023-01-08 22:34:34.381 [main] loginTest - Clicking on the product
+[INFO ] 2023-01-08 22:34:35.178 [main] loginTest - Switching to new tab
+[INFO ] 2023-01-08 22:34:37.848 [main] driverClass - Testcase addtoCart ended
+[INFO ] 2023-01-08 22:34:39.607 [main] driverClass - Testcase flipkartWholeSale started
+[INFO ] 2023-01-08 22:34:39.611 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:34:39.851 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:34:40.511 [main] loginTest - Clicking on the Flipkart WholeSale link
+[INFO ] 2023-01-08 22:34:40.769 [main] loginTest - Switching to new tab
+[INFO ] 2023-01-08 22:34:43.292 [main] driverClass - Testcase flipkartWholeSale ended
+[INFO ] 2023-01-08 22:34:43.442 [main] driverClass - Quiting the browser
+[INFO ] 2023-01-08 22:35:59.605 [main] driverClass - Opening Flipkart.com
+[INFO ] 2023-01-08 22:36:24.785 [main] driverClass - Opening Browser
+[INFO ] 2023-01-08 22:36:26.478 [main] driverClass - Testcase contactUs started
+[INFO ] 2023-01-08 22:36:26.574 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:36:26.869 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:36:27.684 [main] loginTest - Clicking on the Contact Us link
+[INFO ] 2023-01-08 22:36:29.358 [main] driverClass - Testcase contactUs ended
+[INFO ] 2023-01-08 22:36:30.796 [main] driverClass - Testcase aboutUs started
+[INFO ] 2023-01-08 22:36:30.806 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:36:31.345 [main] loginTest - Clicking on the Career link
+[INFO ] 2023-01-08 22:36:38.397 [main] driverClass - Testcase aboutUs ended
+[INFO ] 2023-01-08 22:36:40.105 [main] driverClass - Testcase ReturnPolicyTest started
+[INFO ] 2023-01-08 22:36:40.110 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:36:40.771 [main] helpTest - Clicking on the Return Page link
+[INFO ] 2023-01-08 22:36:42.054 [main] driverClass - Testcase ReturnPolicyTest ended
+[INFO ] 2023-01-08 22:36:43.526 [main] driverClass - Testcase loginPageTest started
+[INFO ] 2023-01-08 22:36:43.533 [main] loginTest - Sending Email or Phone Number
+[INFO ] 2023-01-08 22:36:49.724 [main] driverClass - Testcase loginPageTest ended
+[INFO ] 2023-01-08 22:36:51.471 [main] driverClass - Testcase plusTest started
+[INFO ] 2023-01-08 22:36:51.476 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:36:51.968 [main] loginTest - Clicking on the coin banner
+[INFO ] 2023-01-08 22:36:53.288 [main] driverClass - Testcase plusTest ended
+[INFO ] 2023-01-08 22:36:54.796 [main] driverClass - Testcase BecomaASeller started
+[INFO ] 2023-01-08 22:36:54.804 [main] loginTest - Clicking on the Become A Seller Button
+[INFO ] 2023-01-08 22:37:00.328 [main] loginTest - Sending Molile Number
+[INFO ] 2023-01-08 22:37:00.573 [main] loginTest - Clicking on the Start Selling button
+[INFO ] 2023-01-08 22:37:03.791 [main] driverClass - Testcase BecomaASeller ended
+[INFO ] 2023-01-08 22:37:05.330 [main] driverClass - Testcase aboutUs started
+[INFO ] 2023-01-08 22:37:05.334 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:37:05.875 [main] loginTest - Clicking on the Flipkart Stories link
+[INFO ] 2023-01-08 22:37:27.622 [main] driverClass - Testcase aboutUs ended
+[INFO ] 2023-01-08 22:37:29.517 [main] driverClass - Testcase aboutUs started
+[INFO ] 2023-01-08 22:37:29.524 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:37:30.107 [main] loginTest - Clicking on the About Us link
+[INFO ] 2023-01-08 22:37:30.942 [main] driverClass - Testcase aboutUs ended
+[INFO ] 2023-01-08 22:37:32.354 [main] driverClass - Testcase PaymentPageTest started
+[INFO ] 2023-01-08 22:37:32.358 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:37:32.838 [main] helpTest - Clicking on the Payment Page link
+[INFO ] 2023-01-08 22:37:34.127 [main] driverClass - Testcase PaymentPageTest ended
+[INFO ] 2023-01-08 22:37:35.525 [main] driverClass - Testcase press started
+[INFO ] 2023-01-08 22:37:35.525 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:37:36.143 [main] loginTest - Clicking on the Press link
+[INFO ] 2023-01-08 22:37:38.491 [main] driverClass - Testcase press ended
+[INFO ] 2023-01-08 22:37:40.163 [main] driverClass - Testcase addtoCart started
+[INFO ] 2023-01-08 22:37:40.171 [main] loginTest - Clicking on the mobile icos
+[INFO ] 2023-01-08 22:37:40.372 [main] loginTest - Clicking on brand Banner
+[INFO ] 2023-01-08 22:37:41.337 [main] loginTest - Clicking on the product
+[INFO ] 2023-01-08 22:37:42.236 [main] loginTest - Switching to new tab
+[INFO ] 2023-01-08 22:37:44.932 [main] driverClass - Testcase addtoCart ended
+[INFO ] 2023-01-08 22:37:46.784 [main] driverClass - Testcase flipkartWholeSale started
+[INFO ] 2023-01-08 22:37:46.792 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:37:47.077 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:37:47.644 [main] loginTest - Clicking on the Flipkart WholeSale link
+[INFO ] 2023-01-08 22:37:47.881 [main] loginTest - Switching to new tab
+[INFO ] 2023-01-08 22:37:50.457 [main] driverClass - Testcase flipkartWholeSale ended
+[INFO ] 2023-01-08 22:37:50.600 [main] driverClass - Quiting the browser
+[INFO ] 2023-01-08 22:42:54.681 [main] driverClass - Opening Flipkart.com
+[INFO ] 2023-01-08 22:43:38.663 [main] driverClass - Opening Browser
+[INFO ] 2023-01-08 22:43:40.352 [main] driverClass - Testcase contactUs started
+[INFO ] 2023-01-08 22:43:40.414 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:43:40.734 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:43:41.623 [main] loginTest - Clicking on the Contact Us link
+[INFO ] 2023-01-08 22:43:43.380 [main] driverClass - Testcase contactUs ended
+[INFO ] 2023-01-08 22:43:44.839 [main] driverClass - Testcase aboutUs started
+[INFO ] 2023-01-08 22:43:44.847 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:43:45.438 [main] loginTest - Clicking on the Career link
+[INFO ] 2023-01-08 22:43:49.872 [main] driverClass - Testcase aboutUs ended
+[INFO ] 2023-01-08 22:43:51.668 [main] driverClass - Testcase ReturnPolicyTest started
+[INFO ] 2023-01-08 22:43:51.679 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:43:52.260 [main] helpTest - Clicking on the Return Page link
+[INFO ] 2023-01-08 22:43:53.247 [main] driverClass - Testcase ReturnPolicyTest ended
+[INFO ] 2023-01-08 22:43:54.666 [main] driverClass - Testcase loginPageTest started
+[INFO ] 2023-01-08 22:43:54.671 [main] loginTest - Clicking on the Login button
+[INFO ] 2023-01-08 22:43:54.899 [main] loginTest - Sending Email or Phone Number
+[INFO ] 2023-01-08 22:43:55.191 [main] loginTest - Clicking on the Request OTP button
+[INFO ] 2023-01-08 22:43:55.511 [main] driverClass - Testcase loginPageTest ended
+[INFO ] 2023-01-08 22:43:56.928 [main] driverClass - Testcase plusTest started
+[INFO ] 2023-01-08 22:43:56.931 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:43:57.435 [main] loginTest - Clicking on the coin banner
+[INFO ] 2023-01-08 22:43:58.736 [main] driverClass - Testcase plusTest ended
+[INFO ] 2023-01-08 22:44:00.188 [main] driverClass - Testcase BecomaASeller started
+[INFO ] 2023-01-08 22:44:00.191 [main] loginTest - Clicking on the Become A Seller Button
+[INFO ] 2023-01-08 22:44:07.564 [main] loginTest - Sending Molile Number
+[INFO ] 2023-01-08 22:44:07.748 [main] loginTest - Clicking on the Start Selling button
+[INFO ] 2023-01-08 22:44:10.834 [main] driverClass - Testcase BecomaASeller ended
+[INFO ] 2023-01-08 22:44:15.198 [main] driverClass - Testcase aboutUs started
+[INFO ] 2023-01-08 22:44:15.204 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:44:15.814 [main] loginTest - Clicking on the Flipkart Stories link
+[INFO ] 2023-01-08 22:44:43.583 [main] driverClass - Testcase aboutUs ended
+[INFO ] 2023-01-08 22:44:45.875 [main] driverClass - Testcase aboutUs started
+[INFO ] 2023-01-08 22:44:45.882 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:44:46.773 [main] loginTest - Clicking on the About Us link
+[INFO ] 2023-01-08 22:44:48.393 [main] driverClass - Testcase aboutUs ended
+[INFO ] 2023-01-08 22:44:50.179 [main] driverClass - Testcase PaymentPageTest started
+[INFO ] 2023-01-08 22:44:50.185 [main] helpTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:44:50.887 [main] helpTest - Clicking on the Payment Page link
+[INFO ] 2023-01-08 22:44:52.412 [main] driverClass - Testcase PaymentPageTest ended
+[INFO ] 2023-01-08 22:44:54.382 [main] driverClass - Testcase press started
+[INFO ] 2023-01-08 22:44:54.386 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:44:55.461 [main] loginTest - Clicking on the Press link
+[INFO ] 2023-01-08 22:44:58.752 [main] driverClass - Testcase press ended
+[INFO ] 2023-01-08 22:45:00.397 [main] driverClass - Testcase addtoCart started
+[INFO ] 2023-01-08 22:45:00.402 [main] loginTest - Clicking on the mobile icos
+[INFO ] 2023-01-08 22:45:00.645 [main] loginTest - Clicking on brand Banner
+[INFO ] 2023-01-08 22:45:02.712 [main] loginTest - Clicking on the product
+[INFO ] 2023-01-08 22:45:03.709 [main] loginTest - Switching to new tab
+[INFO ] 2023-01-08 22:45:07.340 [main] driverClass - Testcase addtoCart ended
+[INFO ] 2023-01-08 22:45:09.247 [main] driverClass - Testcase flipkartWholeSale started
+[INFO ] 2023-01-08 22:45:09.256 [main] loginTest - Clicking on the cross to get the view of HomePage
+[INFO ] 2023-01-08 22:45:09.754 [main] loginTest - Clicking on the Exploreplus link
+[INFO ] 2023-01-08 22:45:10.573 [main] loginTest - Clicking on the Flipkart WholeSale link
+[INFO ] 2023-01-08 22:45:10.884 [main] loginTest - Switching to new tab
+[INFO ] 2023-01-08 22:45:17.459 [main] driverClass - Testcase flipkartWholeSale ended
+[INFO ] 2023-01-08 22:45:17.589 [main] driverClass - Quiting the browser

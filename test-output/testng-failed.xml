@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="testCases.searchProductTest">
+        <methods>
+          <include name="startTest"/>
+          <include name="initializeDriver"/>
+          <include name="openUrl"/>
+          <include name="deletion"/>
+          <include name="SearchProduct"/>
+          <include name="quitBrowser"/>
+          <include name="status"/>
+        </methods>
+      </class> <!-- testCases.searchProductTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

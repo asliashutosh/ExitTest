@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [Surefire suite]" verbose="0">
+  <test thread-count="1" name="Surefire test(failed)" verbose="0">
+    <classes>
+      <class name="testCases.addToCartTest">
+        <methods>
+          <include name="addtoCart"/>
+          <include name="startTest"/>
+          <include name="initializeDriver"/>
+          <include name="openUrl"/>
+          <include name="deletion"/>
+          <include name="quitBrowser"/>
+          <include name="status"/>
+        </methods>
+      </class> <!-- testCases.addToCartTest -->
+      <class name="testCases.becomeASellerTest">
+        <methods>
+          <include name="startTest"/>
+          <include name="initializeDriver"/>
+          <include name="openUrl"/>
+          <include name="deletion"/>
+          <include name="BecomaASeller"/>
+          <include name="quitBrowser"/>
+          <include name="status"/>
+        </methods>
+      </class> <!-- testCases.becomeASellerTest -->
+      <class name="testCases.flipkartWholeSaleTest">
+        <methods>
+          <include name="startTest"/>
+          <include name="initializeDriver"/>
+          <include name="openUrl"/>
+          <include name="deletion"/>
+          <include name="flipkartWholeSale"/>
+          <include name="quitBrowser"/>
+          <include name="status"/>
+        </methods>
+      </class> <!-- testCases.flipkartWholeSaleTest -->
+      <class name="testCases.careersTest">
+        <methods>
+          <include name="startTest"/>
+          <include name="initializeDriver"/>
+          <include name="openUrl"/>
+          <include name="deletion"/>
+          <include name="aboutUs"/>
+          <include name="quitBrowser"/>
+          <include name="status"/>
+        </methods>
+      </class> <!-- testCases.careersTest -->
+      <class name="testCases.aboutUsTest">
+        <methods>
+          <include name="aboutUs"/>
+          <include name="startTest"/>
+          <include name="initializeDriver"/>
+          <include name="openUrl"/>
+          <include name="deletion"/>
+          <include name="quitBrowser"/>
+          <include name="status"/>
+        </methods>
+      </class> <!-- testCases.aboutUsTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->
